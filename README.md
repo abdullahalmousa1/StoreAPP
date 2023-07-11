@@ -4,11 +4,12 @@
 #### Restful apis , Postgres SQL 
 
 #### to run this porject please use the following instructions : 
-   - Go to api dir and run :
-      **dotnet restore**
+
+   - Go to api dir and run :  <br />
+      **dotnet restore**  <br />
       **dotnet watch**
-   - Go back to client dir and run :
-   **npm install**
+   - Go back to client dir and run : <br />
+   **npm install** <br />
    **npm start**
 ## And done enjoy !
  
